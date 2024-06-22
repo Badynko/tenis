@@ -13,9 +13,5 @@ header {
 }
 
 .logo {
-  display: grid;
-}
-
-nav {
-  text-align: center;
+  display: inline;
 }

@@ -11,11 +11,3 @@ body {
 header {
   display: flex;
 }
-
-.logo {
-  display: grid;
-}
-
-nav {
-  text-align: center;
-}
