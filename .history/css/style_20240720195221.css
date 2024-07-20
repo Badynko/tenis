@@ -21,7 +21,6 @@ h1 {
 
 nav {
   margin: 2rem 0;
-  margin-bottom: 0;
 }
 
 .menu {
@@ -32,7 +31,7 @@ nav {
 }
 
 .menu li {
-  margin: 0 1rem;
+  margin: 0 0rem;
 }
 
 .menu a {

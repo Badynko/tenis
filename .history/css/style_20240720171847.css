@@ -16,12 +16,11 @@ header {
 h1 {
   margin: 0;
   text-decoration: underline;
-  text-underline-offset: 0.4rem;
+  text-underline-offset: 0.5rem;
 }
 
 nav {
-  margin: 2rem 0;
-  margin-bottom: 0;
+  margin: 1rem 0;
 }
 
 .menu {
