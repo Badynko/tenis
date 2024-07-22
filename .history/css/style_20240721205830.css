@@ -24,6 +24,8 @@ header {
 h1 {
   margin: 0;
   margin-top: 1rem;
+  text-decoration: underline;
+  text-underline-offset: 0.4rem;
 }
 
 nav {
@@ -116,25 +118,5 @@ footer {
 
   .score {
     text-align: center;
-  }
-}
-
-/* HOME SLIDER */
-.slider {
-  margin-top: 3rem;
-  width: 100%;
-  padding-bottom: 50%;
-}
-.slider img {
-  width: 100%;
-}
-.wrapper {
-  width: 100%;
-  margin: 0;
-}
-@media only screen and (min-width: 1024px) {
-  .wrapper {
-    width: 1024px;
-    margin: auto;
   }
 }

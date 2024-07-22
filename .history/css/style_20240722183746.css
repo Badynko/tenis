@@ -119,22 +119,11 @@ footer {
   }
 }
 
-/* HOME SLIDER */
-.slider {
-  margin-top: 3rem;
-  width: 100%;
-  padding-bottom: 50%;
+.home_img {
+  object-fit: contain;
 }
-.slider img {
-  width: 100%;
-}
-.wrapper {
-  width: 100%;
-  margin: 0;
-}
-@media only screen and (min-width: 1024px) {
-  .wrapper {
-    width: 1024px;
-    margin: auto;
-  }
+
+.img_container {
+  height: 50px;
+  overflow: hidden;
 }

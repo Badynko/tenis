@@ -119,22 +119,6 @@ footer {
   }
 }
 
-/* HOME SLIDER */
-.slider {
-  margin-top: 3rem;
-  width: 100%;
-  padding-bottom: 50%;
-}
-.slider img {
-  width: 100%;
-}
-.wrapper {
-  width: 100%;
-  margin: 0;
-}
-@media only screen and (min-width: 1024px) {
-  .wrapper {
-    width: 1024px;
-    margin: auto;
-  }
+.home_img {
+  object-fit: fill;
 }
