@@ -170,12 +170,12 @@ footer {
 }
 
 .accordion-header:hover {
-  background-color: #056100;
+  background-color: #716f6f;
 }
 
 .accordion-body {
   background-color: #fff;
-  border-radius: 1rem;
+  border-radius: 0 0 1rem 1rem;
   display: none;
 }
 

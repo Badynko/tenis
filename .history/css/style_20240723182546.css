@@ -48,7 +48,7 @@ nav {
 }
 
 .menu a:hover {
-  background-color: #f97634;
+  background-color: #ff6112;
 }
 
 main {
@@ -123,9 +123,8 @@ footer {
   padding-bottom: 50%;
 }
 .slider img {
-  border-radius: 3%;
   width: 100%;
-  overflow: clip;
+  overflow: hidden;
 }
 .wrapper {
   width: 100%;
@@ -154,11 +153,10 @@ footer {
 }
 
 .accordion-header {
-  border: 1px solid black;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #ff7700;
+  background-color: #b9b5b5;
   border-radius: 1rem;
   cursor: pointer;
 }
@@ -170,12 +168,12 @@ footer {
 }
 
 .accordion-header:hover {
-  background-color: #056100;
+  background-color: #716f6f;
 }
 
 .accordion-body {
   background-color: #fff;
-  border-radius: 1rem;
+  border-radius: 0 0 1rem 1rem;
   display: none;
 }
 
