@@ -140,10 +140,6 @@ footer {
 
 /* Accordion Styles */
 
-.accordion {
-  margin-bottom: 1rem;
-}
-
 .accordion-container {
   padding: 3rem;
 }
@@ -176,8 +172,4 @@ footer {
   background-color: #fff;
   border-radius: 0 0 1rem 1rem;
   display: none;
-}
-
-.accordion.active .accordion-body {
-  display: block;
 }

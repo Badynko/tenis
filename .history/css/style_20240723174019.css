@@ -140,10 +140,6 @@ footer {
 
 /* Accordion Styles */
 
-.accordion {
-  margin-bottom: 1rem;
-}
-
 .accordion-container {
   padding: 3rem;
 }
@@ -158,26 +154,5 @@ footer {
   justify-content: space-between;
   align-items: center;
   background-color: #b9b5b5;
-  border-radius: 1rem;
-  cursor: pointer;
-}
-
-.accordion-header button {
-  background-color: transparent;
-  border: none;
-  font-size: 1.5rem;
-}
-
-.accordion-header:hover {
-  background-color: #716f6f;
-}
-
-.accordion-body {
-  background-color: #fff;
-  border-radius: 0 0 1rem 1rem;
-  display: none;
-}
-
-.accordion.active .accordion-body {
-  display: block;
+  border-radius: 5%;
 }

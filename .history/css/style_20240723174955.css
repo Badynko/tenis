@@ -140,11 +140,8 @@ footer {
 
 /* Accordion Styles */
 
-.accordion {
-  margin-bottom: 1rem;
-}
-
 .accordion-container {
+  display: flex;
   padding: 3rem;
 }
 
